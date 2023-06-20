@@ -1161,8 +1161,170 @@ function App() {
           </div>
         </div>
       </section>
+
+      <section id='portfolio' className='portfolio gallery-overview wf-section'>
+        <div className='columns'>
+          <div className='column'>
+            <div className='content'>
+              <div className='ux-design-item'>
+                <div className='image-div'>
+                  <div className='overlay-div'>
+                    <h3 className='sub-section-header'> Build your portfolio</h3>
+                  </div>
+                  <img src='images/unsplash_qC2n6RQU4Vw-min-min.png' loading='lazy' width={"335"} sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 991px) 95vw, 940px" srcSet='images/unsplash_qC2n6RQU4Vw-min-min-p-500.png 500w, images/unsplash_qC2n6RQU4Vw-min-min-p-800.png 800w, images/unsplash_qC2n6RQU4Vw-min-min-p-1080.png 1080w, images/unsplash_qC2n6RQU4Vw-min-min-p-1600.png 1600w, images/unsplash_qC2n6RQU4Vw-min-min-p-2000.png 2000w, images/unsplash_qC2n6RQU4Vw-min-min-p-2600.png 2600w, images/unsplash_qC2n6RQU4Vw-min-min-p-3200.png 3200w, images/unsplash_qC2n6RQU4Vw-min-min-p-3840.png 3840w ' alt="" className='image-header image-1'/>
+                </div>
+                <p className='intro-explain'>A portfolio is a collection of work that showcases the skills, expertise, and design process of a UI/UX designer. It serves as a visual representation of the designer&#x27;s abilities, creativity, problem-solving approach and knowledge in the field.</p>
+              </div>
+            </div>
+          </div>
+          <div className='small-columns'>
+            <div className='w-layout-grid item-grid'>
+              <div id='w-node-_1a0eac25-bf89-9329-cbcf-12ab06a0dd40-7770d6ef' className='utimate-hold'>
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/t5OYI-IEkgU' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Learn with Google</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id='w-node-_3d616b18-de1c-0b42-a881-05a8e259dc1e-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/uC1VK4ktsFc' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Beginners Guide</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id='w-node-_fdc88fbe-e9c7-c400-b003-1f8a107d8a54-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/jhlCgYAoTec' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Write your case study</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id='w-node-_4c87393b-1c10-9704-db6d-c6c7e95bd627-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/hx7XyA8RNIw' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Structure your case study</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id='w-node-_3cc0fd53-6295-a7d8-6041-9f791cecacd7-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/jhlCgYAoTec' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Portfolio Review</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id='w-node-_162aaad3-9c1c-4373-e857-e852d83ec24b-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/VIjZSJB1uyc' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Create on behance</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id='w-node-_162aaad3-9c1c-4373-e857-e852d83ec24b-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/VIjZSJB1uyc' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Create on notion</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div id='w-node-_162aaad3-9c1c-4373-e857-e852d83ec24b-7770d6ef' className='utimate-hold'>
+
+                <div className='learn-figma-1-stack stacker portfolio-s'>
+                  <div className='figma-1-overlay behind portfolio-b'></div>
+                  <div className='figma-1-holder main-holder'>
+                    <div className='figma-1-card first-card figma-1'>
+                      <a href='https://youtu.be/VIjZSJB1uyc' className='portfolio-link w-inline-block'>
+                        <h5 className='design-t-name'>Random Project Generator</h5>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className='column-2'></div>
+          </div>
+        </div>
+      </section>
+      <section className='main-footer wf-section'>
+        <div className='w-container'>
+          <div className='holder footer-holder'>
+            <div><img src='images/Uxoamaka-image.png' loading='lazy' width={"32"} alt=""/></div>
+            <div className='w-layout-grid grid-2'>
+              <div id='W-node-c6c785cb-2735-f37c-1a6a-50e9545b737d-7770def' className='bottom-text'>
+                <h6 className='heading-4'>Designed and created by <a href='https://www.linkedin.com/in/jennifer-daniel-4b5514ab/' target={'_blank'} className='link'><span className='name-tag'>Jennifer Daniel</span></a></h6>
+              </div>
+              <div id='W-node-_486aa22e-ff2d-af96-474e-dab29eb18e8f-7770d6ef' className='my-links'>
+                <div id='W-node-_704da9eb-3144-9cab-914a-2078e5a45961-7770d6ef' className='divider'></div>
+                <a href='https://keepo.io/jenniferdaniel' target={"_blank"} className="link-block-2 w-inline-block">
+                  <div className='my-name-links'>
+                    <h6 className='meet-me'> Meet me</h6>
+                  </div>
+                </a>
+
+                <a href='mailto:jenniferdanielofficial@gmail.com' target={"_blank"} className="link-block-2 w-inline-block">
+                  <div className='my-name-links'>
+                    <h6 className='meet-me'> Contact</h6>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className='nav-section dark-mode wf-section'>
+        
+      </section>
     </div>
   );
 }
 
 export default App;
+ 
