@@ -130,6 +130,12 @@
 
 }
 
+.w-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .tab-text:hover, .tab-text.w--current{
   color: #fff;
 }
@@ -248,7 +254,7 @@
 .hero-stack.sub-stack{
   z-index: 2;
   background-color: #f0efeb;
-  /* background-image: url('../images/MacBook-Pro-14_---2.png'); */
+  background-image: url(./assets/background.svg);
   background-position: 50%;
   background-size: cover;
   flex-direction: column;
